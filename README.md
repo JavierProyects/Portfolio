@@ -20,7 +20,7 @@
 
 - Welcome to my profile! I'm a passionate and driven individual who embarked on a remarkable journey from Spain to the United States in 2018. I came with a soccer scholarship that opened the doors to a world of opportunities. My path led me to the University of South Carolina Upstate, where I earned my bachelor's degree in Management & Information Systems in the spring of 2022.
 
-- Eager to continue my pursuit of knowledge and expand my skill set, I made my way to Lowell, MA, in August 2022, I completed a master's degree in Business Analytics. This dynamic program, has been equipping me with analytical tools and strategies that enable me to make data-driven decisions and contribute meaningfully to the evolving business landscape.
+- Eager to continue my pursuit of knowledge and expand my skill set, I made my way to Lowell, MA. In December 2023, I completed a master's degree in Business Analytics from the University of Massachusetts Lowell. This dynamic program has been equipping me with analytical tools and strategies that enable me to make data-driven decisions and contribute meaningfully to the evolving business landscape.
 
 - My experiences as an international student-athlete have cultivated not only my determination and resilience but also my ability to work collaboratively within diverse teams. I am deeply enthusiastic about the intersection of data, management, and strategy, and I'm eager to leverage these passions to drive innovative solutions and insights that create positive impacts.
 
