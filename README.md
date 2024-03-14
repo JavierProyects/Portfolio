@@ -8,6 +8,8 @@
   - [Project Report & Visualizations](https://docs.google.com/document/d/1CyrlZsByiCaGCUxLR7xjDQZ-52dZLIfX/edit)
 - <b>Adidas Sales Project (SQL + Tableau)</b>
   - [Project Report & Visualizations](https://github.com/JavierProyects/Adidas-Sales-Project)
+- <b>Exploring Crime Trends in NYC 2023: An Interactive Dashboard (Excel)</b>
+  - [Project Insights & Visualizations](https://www.linkedin.com/posts/javiertorresserrano_crimeanalysis-datavisualization-communitysafety-activity-7174122244485345281-M1ns?utm_source=share&utm_medium=member_desktop)
 
 <h2>📃 Certificates:</h2>
 
