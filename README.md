@@ -6,10 +6,11 @@
   - [Project Insights & Visualizations](https://www.linkedin.com/posts/javiertorresserrano_crimeanalysis-datavisualization-communitysafety-activity-7174122244485345281-M1ns?utm_source=share&utm_medium=member_desktop)
 - <b>Predictive Model for Call Reasons (DCU) (Python + Tableau)</b>
   - [Project Poster Overview](https://drive.google.com/file/d/1JCnea2UNm0WXHOaAuZ1dNcf41UDyXlCR/view)
-- <b>Exploring International Soccer Games: A Historical Analysis (1872-2023) (Excel Power Queries + Power BI)</b>
-  - [Project Report & Visualizations](https://docs.google.com/document/d/1CyrlZsByiCaGCUxLR7xjDQZ-52dZLIfX/edit)
 - <b>Adidas Sales Project (SQL + Tableau)</b>
   - [Project Report & Visualizations](https://github.com/JavierProyects/Adidas-Sales-Project)
+- <b>Exploring International Soccer Games: A Historical Analysis (1872-2023) (Excel Power Queries + Power BI)</b>
+  - [Project Report & Visualizations](https://docs.google.com/document/d/1CyrlZsByiCaGCUxLR7xjDQZ-52dZLIfX/edit)
+
 
 
 <h2>📃 Certificates:</h2>
